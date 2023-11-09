@@ -1,0 +1,20 @@
+Link to url:
+
+https://gosupermodel.com/games/wardrobegame.jsp
+
+username: dabiel
+password: password1
+
+don't change where the browser is or it will fail. (or update where the browser starts?)
+
+TODO:
+
+[X] Separate out the "clicks" from the "remove group" actions
+
+[X] Record only the "click" actions
+
+[X] After the "remove group" action, trigger the move down, move right actions.
+
+Trigger the next recursion.
+
+Once a recursion reaches a cleared board, save that list of actions to the main actions.
